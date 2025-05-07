@@ -1,0 +1,8 @@
+view\console\Main.class
+model\Truck.class
+model\CombustibleEnum.class
+model\ColorEnum.class
+model\Vehicle.class
+model\Car.class
+model\Coche.class
+model\Cochev2.class
